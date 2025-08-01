@@ -14,11 +14,11 @@
 <table>
   <tr>
     <td align="center">
-      <img src="extras/vq-vae.png" width="400"/><br/>
+      <img src="extras/vq-vae.png" width="500"/><br/>
       <strong>Figure 1: Reconstruction Task</strong>
     </td>
     <td align="center">
-      <img src="extras/convlstm.png" width="400"/><br/>
+      <img src="extras/convlstm.png" width="500"/><br/>
       <strong>Figure 2: Temporal Modeling</strong>
     </td>
   </tr>
@@ -26,6 +26,6 @@
 
 <!-- Second row: One centered figure -->
 <p align="center">
-  <img src="extras/Generation.png" width="500"/><br/>
+  <img src="extras/Generation.png" width="1000"/><br/>
   <strong>Figure 3: Generation of Data</strong>
 </p>
