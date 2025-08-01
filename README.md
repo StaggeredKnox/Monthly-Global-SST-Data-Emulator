@@ -19,7 +19,7 @@
     </td>
     <td align="center">
       <img src="extras/convlstm.png" width="500"/><br/>
-      <strong>Figure 2: Temporal Modeling (S-ConvLSTM)</strong>
+      <strong>Figure 2: Temporal Modeling (Scaled-ConvLSTM)</strong>
     </td>
   </tr>
 </table>
