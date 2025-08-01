@@ -4,7 +4,7 @@
 
 • VQ-VAE trained separately for reconstruction task using standard objective function.
 
-• Convolutional LSTM network leveraged for temporal modeling of latent tensors corresponding to SST maps.
+• Scaled-Convolutional LSTM network leveraged for temporal modeling of latent tensors corresponding to SST maps.
 
 • Generation of Spatio-temporal data happens while using both trained architectures, simultaneously. See figures for more clarity.
 
@@ -19,7 +19,7 @@
     </td>
     <td align="center">
       <img src="extras/convlstm.png" width="500"/><br/>
-      <strong>Figure 2: Temporal Modeling (ConvLSTM)</strong>
+      <strong>Figure 2: Temporal Modeling (S-ConvLSTM)</strong>
     </td>
   </tr>
 </table>
