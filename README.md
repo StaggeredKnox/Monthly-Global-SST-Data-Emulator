@@ -15,11 +15,11 @@
   <tr>
     <td align="center">
       <img src="extras/vq-vae.png" width="500"/><br/>
-      <strong>Figure 1: Reconstruction Task</strong>
+      <strong>Figure 1: Reconstruction Task (VQ-VAE)</strong>
     </td>
     <td align="center">
       <img src="extras/convlstm.png" width="500"/><br/>
-      <strong>Figure 2: Temporal Modeling</strong>
+      <strong>Figure 2: Temporal Modeling (ConvLSTM)</strong>
     </td>
   </tr>
 </table>
